@@ -2,5 +2,6 @@
 
 def example():
     print(var)
+    var = 20
 
 example()
