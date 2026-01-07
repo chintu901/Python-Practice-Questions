@@ -8,4 +8,4 @@ def greet(name = None):
     else:
         print(f"Hello, {name}")
 
-greet(name)
+greet()
